@@ -15,6 +15,3 @@ Click "Generate Story" and wait for the AI to generate a structured narrative.
 ## Contributing
 Feel free to fork the repository and submit pull requests with improvements or new features. Bug reports and feedback are always welcome.
 
-## License
-This project is open-source and available under the MIT License.
-
